@@ -1,0 +1,18 @@
+﻿  lab71301.cpp
+C:\Users\SCORPION\Desktop\lab71301\lab71301\lab71301.cpp(395,35): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\SCORPION\Desktop\lab71301\lab71301\lab71301.cpp(251,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\SCORPION\Desktop\lab71301\lab71301\lab71301.cpp(249): message : во время компиляции функции-члена класс шаблон "void Algorithm<Subscriber>::DeleteElement(std::string)"
+C:\Users\SCORPION\Desktop\lab71301\lab71301\lab71301.cpp(457): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Algorithm<Subscriber>::DeleteElement(std::string)"
+C:\Users\SCORPION\Desktop\lab71301\lab71301\lab71301.cpp(388): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Algorithm<Subscriber>"
+C:\Users\SCORPION\Desktop\lab71301\lab71301\lab71301.cpp(281,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\SCORPION\Desktop\lab71301\lab71301\lab71301.cpp(280): message : во время компиляции функции-члена класс шаблон "void Algorithm<Subscriber>::Rename(std::string,T)"
+C:\Users\SCORPION\Desktop\lab71301\lab71301\lab71301.cpp(280): message :         with
+C:\Users\SCORPION\Desktop\lab71301\lab71301\lab71301.cpp(280): message :         [
+C:\Users\SCORPION\Desktop\lab71301\lab71301\lab71301.cpp(280): message :             T=Subscriber
+C:\Users\SCORPION\Desktop\lab71301\lab71301\lab71301.cpp(280): message :         ]
+C:\Users\SCORPION\Desktop\lab71301\lab71301\lab71301.cpp(469): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Algorithm<Subscriber>::Rename(std::string,T)"
+C:\Users\SCORPION\Desktop\lab71301\lab71301\lab71301.cpp(469): message :         with
+C:\Users\SCORPION\Desktop\lab71301\lab71301\lab71301.cpp(469): message :         [
+C:\Users\SCORPION\Desktop\lab71301\lab71301\lab71301.cpp(469): message :             T=Subscriber
+C:\Users\SCORPION\Desktop\lab71301\lab71301\lab71301.cpp(469): message :         ]
+  lab71301.vcxproj -> C:\Users\SCORPION\Desktop\lab71301\Debug\lab71301.exe
